@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pom
+# key: pom
+# --
+time - p${X}
+- g - ${}
+- r - ${}$0

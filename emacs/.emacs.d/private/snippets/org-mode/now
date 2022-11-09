@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: now
+# key: now
+# --
+`(shell-command-to-string "TZ=US/Eastern date +%Y-%m-%d | tr -d '\n'")` `(shell-command-to-string "TZ=US/Eastern date +%H:%M | tr -d '\n'")` ET$0
