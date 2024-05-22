@@ -1,3 +1,5 @@
+*This has been migrated to public/dotfiles*
+
 The opinionated dotfiles of Tennyson T Bardwell (tennysontbardwell.com).
 
 Designed to be deployed with GNU Stow.
